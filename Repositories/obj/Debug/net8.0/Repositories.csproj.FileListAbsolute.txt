@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\ASUS\source\repos\QuanLiQuanCaPhe\Repositories\obj\Debug\net8.0\ref\Repositories.dll
